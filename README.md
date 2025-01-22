@@ -34,8 +34,8 @@ Cette application permet de faciliter et d'automatiser les rendus avec Maya et A
 #### Option 2 : Construire l'application vous-même
 1. Clonez ou téléchargez ce projet dans un répertoire local :
    ```bash
-   git clone <url-du-repo>
-   cd <dossier-du-projet>
+   git clone https://github.com/Maxime272003/render-app.git
+   cd render-app
    ```
 2. Installez les dépendances nécessaires :
    ```bash
