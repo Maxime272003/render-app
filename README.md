@@ -2,6 +2,14 @@
 
 Cette application permet de faciliter et d'automatiser les rendus avec Maya et Arnold. Elle offre une interface graphique pour configurer des rendus, les ajouter à une file d'attente, et exécuter plusieurs rendus en séquence.
 
+---
+
+## 📥 Télécharger l'exécutable
+**Téléchargez la dernière version ici** :  
+[📥 Télécharger maintenant](https://github.com/Maxime272003/render-app/releases/latest/download/render-app.exe)
+
+---
+
 ## Fonctionnalités principales
 - **Rendu unique** : Lancez un rendu unique en sélectionnant une scène et des paramètres de rendu.
 - **File d'attente** : Ajoutez plusieurs configurations de rendu à une file d'attente et exécutez-les en séquence.
